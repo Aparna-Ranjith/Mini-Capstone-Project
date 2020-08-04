@@ -14,3 +14,6 @@ The patient data used in this effort has been donated by Hospital Israelita Albe
 3. Visualization -- EDA on the final dataset
 4. Prediction_Extended_Dataset -- Predicting the occurence of Covid-19 on the basis of blood test and other attributes forming an extended dataset
 5. Admission to Wards -- Predicting the admission to Regular ward, Semi-ICU, or ICU based on severity
+
+### Data
+All the data used can be found in the Datasets folder. 
