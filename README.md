@@ -10,7 +10,7 @@ The patient data used in this effort has been donated by Hospital Israelita Albe
 
 ### Notebooks:
 1. Data Cleaning -- Preprocessing the initial Dataset to remove null values
-2. Visualization -- EDA on the final dataset
-3. Covid-19 Prediction
-4. Admission to Wards -- Predicting the admission to Regular ward, Semi-ICU, or ICU based on severity
-
+2. Prediction_Blood_Dataset -- Predicting Covid-19 in  pateints on the basis of blood test attributes
+3. Visualization -- EDA on the final dataset
+4. Prediction_Extended_Dataset -- Predicting the occurence of Covid-19 on the basis of blood test and other attributes forming an extended dataset
+5. Admission to Wards -- Predicting the admission to Regular ward, Semi-ICU, or ICU based on severity
